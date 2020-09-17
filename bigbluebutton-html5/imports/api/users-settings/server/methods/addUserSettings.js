@@ -31,6 +31,7 @@ const oldParametersKeys = Object.keys(oldParameters);
 const currentParameters = [
   // APP
   'bbb_ask_for_feedback_on_logout',
+  'bbb_override_default_locale',
   'bbb_auto_join_audio',
   'bbb_client_title',
   'bbb_force_listen_only',
@@ -45,6 +46,7 @@ const currentParameters = [
   'bbb_preferred_camera_profile',
   'bbb_enable_screen_sharing',
   'bbb_enable_video',
+  'bbb_record_video',
   'bbb_skip_video_preview',
   'bbb_mirror_own_webcam',
   // PRESENTATION
